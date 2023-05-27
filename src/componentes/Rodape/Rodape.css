@@ -1,0 +1,23 @@
+.footer {
+    background-color: #6278F7;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 32px;
+    align-items: center;
+}
+
+.footer .listaRedes {
+    display: flex;
+    column-gap: 3rem;
+    margin-left: 3rem;
+}
+
+.footer .listaRedes img{
+    width: 1.5rem;
+}
+
+.footer p {
+    color: white;
+    margin-right: 1.5rem;
+}
